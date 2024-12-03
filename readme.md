@@ -17,3 +17,8 @@ in terminal
 - openai api key  https://platform.openai.com/api-keys 
 - asana api personal access token https://app.asana.com/0/my-apps
 - google api key https://support.google.com/googleapi/answer/6158862?hl=en
+
+# naming conventions
+
+functions named 'fetch_something' refer to api get requests, and return internal objects
+functions named 'get_something' refer directly to existing internal program objects
