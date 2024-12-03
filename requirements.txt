@@ -1,0 +1,5 @@
+python-dotenv
+
+asana
+langchain
+langchain_community

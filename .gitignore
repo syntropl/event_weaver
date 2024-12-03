@@ -1,0 +1,28 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folder
+event_weaver_venv/
+
+
+# Distribution / Packaging
+build/
+dist/
+*.egg-info/
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and debug output
+*.log
+
+# Secrets
+.env
+*.key
